@@ -1,3 +1,3 @@
 <?php 
-    echo 'Mostrar para cotizacion-02 y sin conflicto';
+    echo 'Mostrar para cotizacion-02 y resuelto y sin conflicto';
 ?>
