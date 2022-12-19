@@ -47,7 +47,7 @@
                 ?>
                 <div>
                     <?php 
-                        echo $msg . ' Saludando';
+                        echo $msg;
                     ?>
                 </div>
                 <?php
